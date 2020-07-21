@@ -8,11 +8,9 @@ If you are looking for interns, check out my [resume.](http://christianfjung.com
 
 
 
-[<img src="https://github.com/ChristianFJung/christianfjung/raw/master/icons/twitter.png" style="zoom:50%;" />](http://twitter.christianfjung.com/)[<img src="https://github.com/ChristianFJung/christianfjung/raw/master/icons/linkedin.png"  />](http://linkedin.christianfjung.com/)
+[<img src="https://github.com/ChristianFJung/christianfjung/raw/master/icons/twitter.png" style="width=50;" />](http://twitter.christianfjung.com/)[<img src="https://github.com/ChristianFJung/christianfjung/raw/master/icons/linkedin.png"  />](http://linkedin.christianfjung.com/)
 
 
 
  
-
-![](https://github.com/ChristianFJung/christianfjung/raw/master/icons/twitter.png | width=50)
 
