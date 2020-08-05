@@ -7,9 +7,8 @@ On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and
 If you are looking for interns, check out my [resume.](http://christianfjung.com/resume.pdf) Or if you just want to reach out, please don’t hesitate to contact me!
 
 
-
+<center>
 [![My github stats](https://github-readme-stats.vercel.app/api?username=christianfjung&hide=prs,)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
+</center>
 
