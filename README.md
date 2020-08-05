@@ -8,6 +8,10 @@
   <img align="left" alt="Christian F. Jung | Linkedin" width="21px" src="https://raw.githubusercontent.com/christianfjung/christianfjung/master/icons/linkedin.svg" />
 </a>
 
+<a href="http://linkedin.christianfjung.com">
+  <img align="left" alt="Christian F. Jung | Linkedin" width="21px" src="https://raw.githubusercontent.com/christianfjung/christianfjung/master/icons/gi.png" />
+</a>
+
 <br />
 <br />
 
