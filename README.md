@@ -8,6 +8,7 @@ If you are looking for interns, check out my [resume.](http://christianfjung.com
 
 
 
+[![My github stats](https://github-readme-stats.vercel.app/api?username=christianfjung)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
