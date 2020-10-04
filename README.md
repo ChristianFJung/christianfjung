@@ -1,4 +1,4 @@
-# Hi, I'm Christian(htttp://christianfjung.com)! :wave:
+# Hi, I'm Christian! :wave:
 
 <a href="https://twitter.com/christianfjung">
   <img align="left" alt="Christian F. Jung | Twitter" width="21px" src="https://raw.githubusercontent.com/christianfjung/christianfjung/master/icons/twitter.svg" />
