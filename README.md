@@ -21,7 +21,7 @@
 
 <p> On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and volunteer with children in STEM! </p>
 
-<p> If you are looking for interns or help with a project, check out my <a href="http://christianfjung.com/resume.pdf"> resume </a> or my <a href="https://blog.christianfjung.com">blog</a>. </a> Or if you just want to reach out, please don’t hesitate to contact me!</p>
+<p> If you are looking for interns or help with a project, check out my <a href="http://christianfjung.com/resume.pdf"> resume </a> or my <a href="https://www,christianfjung.com">website</a>. </a> Or if you just want to reach out, please don’t hesitate to contact me!</p>
 
 
 
