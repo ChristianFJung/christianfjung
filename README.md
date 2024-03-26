@@ -27,9 +27,3 @@ On a personal note, I'm the oldest of 4 siblings, I love to run, scuba dive, and
 
 
 
-
-<p align="center">
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=christianfjung&hide=prs,)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
